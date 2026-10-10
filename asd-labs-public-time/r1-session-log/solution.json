@@ -1,0 +1,6 @@
+{
+  "author": "Никитин Никита",
+  "language": "GO1.27.1",
+  "build": "go build -o solution.exe main.go",
+  "run": "cmd /c solution.exe"
+}
